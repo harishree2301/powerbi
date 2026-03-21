@@ -1,0 +1,25 @@
+In this project, I used Power BI to clean and organize sales and customer data. The main goal was to take raw data and turn it into a clear format so it’s easy to understand and use for reports.
+
+
+First, I cleaned the data using Power Query. I fixed errors, corrected data types, and formatted columns properly. I also made sure names and addresses were written in the same way everywhere.
+
+
+Then, I worked on the numbers. I rounded revenue values to two decimal places and created a new column called Profit by subtracting cost from revenue.
+
+Next, I handled the date data.
+ I took out details like day, month, year, and quarter from the order date.
+ I also created a fiscal month column and calculated the age of customers using their birth date.
+
+After that, I created categories like High, Medium, and Low based on sales values. I also added index columns to keep the data in the correct order.
+
+
+I used pivot and unpivot to rearrange the data so it becomes easier to analyze and create visuals.
+I also combined data from different sources. For example, I merged sales data with employee data using common fields like region or employee ID.
+ I also joined multiple monthly files into one dataset.
+
+Then, I grouped the data to calculate total sales, average order value, and number of transactions for each region.
+
+To check data quality, I used tools to find missing values and errors.
+
+
+Finally, I used parameters and tested data refresh so that new data can be added automatically without repeating all the steps.
