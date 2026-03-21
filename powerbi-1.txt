@@ -1,4 +1,4 @@
-In this project, I used Power BI to clean and organize sales and customer data. The main goal was to take raw data and turn it into a clear format so it’s easy to understand and use for reports.
+In project I used Power BI to clean and organize sales and customer data. The main goal was to take raw data and turn it into a clear format so itâ€™s easy to understand and use for reports.
 
 
 First, I cleaned the data using Power Query. I fixed errors, corrected data types, and formatted columns properly. I also made sure names and addresses were written in the same way everywhere.
